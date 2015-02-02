@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Tungnt.NET.WCFRestDemo.WCFRestDemo" CodeBehind="WCFRestDemo.svc.cs" %>
